@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Philly 311 Classifications](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
